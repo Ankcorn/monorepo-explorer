@@ -1,0 +1,14 @@
+{
+  "name": "monorepo-explorer",
+  "version": "0.0.1",
+  "author": "Marton Veto",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@yarnpkg/lockfile": "^1.1.0",
+    "commander": "^9.4.0",
+    "fast-folder-size": "^1.7.1",
+    "readdirp": "^3.6.0",
+    "semver": "^7.3.7"
+  }
+}
